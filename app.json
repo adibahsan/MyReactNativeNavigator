@@ -1,0 +1,12 @@
+{
+  "name": "MyReactNativeNavigator",
+  "displayName": "MyReactNativeNavigator",
+  "expo": {
+    "name": "MyReactNativeNavigator",
+    "slug": "MyReactNativeNavigator",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
